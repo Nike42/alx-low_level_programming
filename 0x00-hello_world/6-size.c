@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - Print the size of var types
  * Return: Always 0 (success)
- * /
+ */
  int main(void)
  {
 char a;
