@@ -1,1 +1,2 @@
-0x02-functions_nested_loops
+# alx-low_level_programming
+0x02. C - Functions, nested loops
